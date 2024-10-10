@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PrimerParcialEjercicio8.props" />
+</Project>

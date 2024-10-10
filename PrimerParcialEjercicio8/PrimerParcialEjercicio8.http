@@ -1,0 +1,6 @@
+@PrimerParcialEjercicio8_HostAddress = http://localhost:5015
+
+GET {{PrimerParcialEjercicio8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
